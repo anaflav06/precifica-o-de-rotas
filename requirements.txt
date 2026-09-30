@@ -1,0 +1,3 @@
+streamlit>=1.37
+reportlab>=4.2
+requests>=2.31
