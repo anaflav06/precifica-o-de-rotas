@@ -1,0 +1,21 @@
+{
+  "diesel_litro": 7.35,
+  "consumo_km_l": 3.42,
+  "arla_litro": 3.5,
+  "diesel_por_litro_arla": 20.0,
+  "manutencao_km": 0.2,
+  "pneus_km": 0.15,
+  "outros_variaveis_viagem": 80.0,
+  "depreciacao_viagem": 500.0,
+  "salario_motorista_viagem": 150.0,
+  "encargos_motorista_viagem": 105.0,
+  "seguro_viagem": 50.0,
+  "despesas_adm_viagem": 450.0,
+  "outras_fixas_viagem": 30.0,
+  "markup_percentual": 20.0,
+  "impostos_percentual": 0.0,
+  "frete_minimo": 0.0,
+  "hora_parada": 0.0,
+  "validade_cotacao_dias": 7,
+  "ultima_atualizacao": "30/09/2026 18:04"
+}
