@@ -1,5 +1,5 @@
 {
-  "diesel_litro": 7.02,
+  "diesel_litro": 7.5,
   "consumo_km_l": 3.42,
   "arla_litro": 3.5,
   "diesel_por_litro_arla": 20.0,
@@ -17,5 +17,5 @@
   "frete_minimo": 0.0,
   "hora_parada": 0.0,
   "validade_cotacao_dias": 7,
-  "ultima_atualizacao": "30/09/2026 20:23"
+  "ultima_atualizacao": "08/10/2026 19:42"
 }
